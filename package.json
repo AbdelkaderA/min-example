@@ -1,0 +1,19 @@
+{
+  "name": "min-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "min-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bonjour": "node hello.js",
+    "image": "node min-example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^8.0.0"
+  }
+}
